@@ -4,10 +4,6 @@
 
 - Tú: Thêm logic phần Discount Program và sửa Checkout/Bán Hàng
 
-- Playlist video: https://www.youtube.com/playlist?list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng
-
-Deadline hiện tại:<strong> 07/12/2024 </strong>
-
 Thông tin mới:
 - Sửa lại cách vận động của Checkout và Payment dựa trên database mysql của Bảo.
 - Sản phẩm secondhand sẽ được giảm giá vào database product. -> Không cần chỉnh backend
